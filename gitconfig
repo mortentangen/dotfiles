@@ -1,3 +1,5 @@
 [user]
 	email = morten.tangen@gmail.com
 	name = Morten S. Tangen
+[push]
+	default = simple
